@@ -1,0 +1,1 @@
+# Achieving_Rotation_Robustness_in_Point_Cloud_Part_Segmentation_Based_on_Neural_Tangent_Kernel
